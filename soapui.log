@@ -1,0 +1,8 @@
+2019-08-29 12:42:13,448 WARN  [SoapUI] Missing folder [C:\Users\Bartek\eclipse-workspace\SoapCalculator\ext] for external libraries
+2019-08-29 12:42:13,671 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Bartek\soapui-settings.xml]
+2019-08-29 12:42:14,192 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2019-08-29 12:42:14,192 INFO  [DefaultSoapUICore] All plugins loaded
+2019-08-29 12:42:15,433 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Bartek/Documents/calculator-soapui-project.xml]
+2019-08-29 12:42:16,590 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Bartek/Documents/calculator-soapui-project.xml]
+2019-08-29 12:42:16,833 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Bartek/Documents/calculator-soapui-project.xml]
+2019-08-29 12:42:17,107 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Bartek/Documents/calculator-soapui-project.xml]
